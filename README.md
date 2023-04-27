@@ -65,3 +65,5 @@ echo ".env" >> .gitignore
 ```bash
 git status
 ```
+
+[Post](https://medium.com/@NelsonBN/how-to-securely-set-environment-variables-from-a-env-file-in-docker-compose-13f2f28e5c46)
